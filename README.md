@@ -1,5 +1,5 @@
 ### About me
-- [诗云科技](www.surreal.la) 创始人 & CEO
+- [诗云科技](https://www.surreal.la) 创始人 & CEO
 - 卡内基梅隆大学 CMU 计算机硕士，同济大学自动化本科
 - Snapchat 早期员工（2014-2020），在商业化，推荐算法，机器学习平台，以及 AI Camera 中担任技术主管
 - 商业化团队核心成员 (前2)，从 0 到 1 搭建社交广告平台，创立Snapchat 广告算法团队
